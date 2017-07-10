@@ -1,0 +1,39 @@
+THIS SHOULD ONLY BE HERE once
+THIS SHOULD ONLY BE HERE once
+THIS SHOULD ONLY BE HERE once
+THIS SHOULD ONLY BE HERE once
+my name is qian
+line 1
+line 2
+line 3
+line 5
+var buffer = fs.readFileSync(input[0], 'utf8')
+var lines = buffer.split("\n")
+console.log(lines.length)
+console.log(lines)
+a
+b
+c
+d
+e
+1
+2
+3
+4
+5
+line 1
+line 2
+line 3
+line 5
+line 1
+line 2
+line 3
+line 5
+line 1
+line 2
+line 3
+line 5
+THIS SHOULD ONLY BE HERE once
+THIS SHOULD ONLY BE HERE once
+THIS SHOULD ONLY BE HERE once
+THIS SHOULD ONLY BE HERE once
